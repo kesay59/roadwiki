@@ -3,9 +3,7 @@
 
 
 
-# SSAFY 4th 자율 프로젝트 1차 sub3
-
-> 배포 주소 : https://i4c106.p.ssafy.io/MAINPAGE
+# 자율 프로젝트 - ROADWIKI
 
 개발자를 위한 개발자 로드맵 제시 및 개인 커스터마이징 로드맵 제공 웹 페이지
 
